@@ -1,7 +1,7 @@
 {
   "name": "transformador",
   "main": "./lib/transformador",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Transformador is a package that allow you to execute small modifications on words on numbers",
   "keywords": [
     "Transformador",
