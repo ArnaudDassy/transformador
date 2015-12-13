@@ -1,7 +1,7 @@
 {
   "name": "transformador",
   "main": "./lib/transformador",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Transformador is a package that allow you to execute small modifications on words on numbers",
   "keywords": [
     "Transformador",
@@ -13,13 +13,6 @@
     "word suffle"
   ],
   "activationCommands": {
-    "atom-workspace": "transformer:upperCase",
-    "atom-workspace": "transformer:wordInvert",
-    "atom-workspace": "transformer:wordReverse",
-    "atom-workspace": "transformer:calculate",
-    "atom-workspace": "transformer:wordWave",
-    "atom-workspace": "transformer:camelCase",
-    "atom-workspace": "transformer:underscoreCase",
     "atom-workspace": "transformer:wordShuffle"
   },
   "repository": "https://github.com/ArnaudDassy/transformador",
