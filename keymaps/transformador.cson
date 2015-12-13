@@ -17,3 +17,12 @@
   'ctrl-alt-shift-c': 'transformador:camelCase'
   'ctrl-alt-shift-v': 'transformador:underscoreCase'
   'ctrl-alt-shift-s': 'transformador:wordShuffle'
+
+  'cmd-alt-shift-u': 'transformador:upperCase',
+  'cmd-alt-shift-i': 'transformador:wordInvert'
+  'cmd-alt-shift-r': 'transformador:wordReverse'
+  'cmd-alt-shift-e': 'transformador:calculate'
+  'cmd-alt-shift-w': 'transformador:wordWave'
+  'cmd-alt-shift-c': 'transformador:camelCase'
+  'cmd-alt-shift-v': 'transformador:underscoreCase'
+  'cmd-alt-shift-s': 'transformador:wordShuffle'
