@@ -1,10 +1,10 @@
 # Transformador package
 
-Transformador is a package that allow you to execute small modifications on words on numbers.
+Transformador is a package that allow you to execute small modifications on words or numbers.
 
 ## 1. Upper Case
 
-  Shortcut : ``` ctrl-alt-shift-u ```
+  Shortcut : ``` ctrl-alt-shift-u ``` /  ``` cmd-alt-shift-u ```
 
   >Make all letter of a word or a sentence in upper case mode
 
@@ -16,7 +16,7 @@ var s = "JavaScript syntax highlighting";
 
 ## 2. Word Invert
 
-  Shortcut :   ``` ctrl-alt-shift-i ```
+  Shortcut :   ``` ctrl-alt-shift-i ``` /  ``` cmd-alt-shift-i ```
 
   >Inverse the position of two selected words
 
@@ -28,7 +28,7 @@ var s = "JavaScript syntax highlighting";
 
 ## 3. Word Reverse
 
-  Shortcut :   ``` ctrl-alt-shift-r ```
+  Shortcut :   ``` ctrl-alt-shift-r ``` /  ``` cmd-alt-shift-r ```
 
   >Reverse the order of a word's letters
 
@@ -40,7 +40,7 @@ var s = "JavaScript syntax highlighting";
 
 ## 4. Word Wave
 
-  Shortcut :   ``` ctrl-alt-shift-w ```
+  Shortcut :   ``` ctrl-alt-shift-w ``` /  ``` cmd-alt-shift-w ```
 
   >Switch a letter on two on upper case
 
@@ -52,7 +52,7 @@ var s = "JavaScript syntax highlighting";
 
 ## 5. Word Shuffle
 
-  Shortcut :   ``` ctrl-alt-shift-s ```
+  Shortcut :   ``` ctrl-alt-shift-s ``` /  ``` cmd-alt-shift-s ```
 
   >Shuffle randomly the letter of a word
 
@@ -63,7 +63,7 @@ var s = "JavaScript syntax highlighting";
 ```
 
 ## 6. Calculate
-  Shortcut :  ``` ctrl-alt-shift-e ```
+  Shortcut :  ``` ctrl-alt-shift-e ``` /  ``` cmd-alt-shift-e ```
 
   >Calculate the selected operation(s)
 
@@ -77,7 +77,7 @@ var s = "The result is equal to 8+8/3*9+9*5";
 
 ## 7. Camel Case Mode
 
-  Shortcut :   ``` ctrl-alt-shift-c ```
+  Shortcut :   ``` ctrl-alt-shift-c ``` /  ``` cmd-alt-shift-c ```
 
   >Combine several following and selected words, deleting spaces and put the first letter of each word in upper case mode
 
@@ -89,7 +89,7 @@ var s = "JavaScript syntax highlighting";
 
 ## 8 Underscore Case Mode
 
-  Shortcut :   ``` ctrl-alt-shift-v ```
+  Shortcut :   ``` ctrl-alt-shift-v ``` /  ``` cmd-alt-shift-v ```
 
   >Combine several following and selected words, deleting spaces and separate each word with and underscore
 

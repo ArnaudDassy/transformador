@@ -17,7 +17,6 @@
   'ctrl-alt-shift-c': 'transformador:camelCase'
   'ctrl-alt-shift-v': 'transformador:underscoreCase'
   'ctrl-alt-shift-s': 'transformador:wordShuffle'
-
   'cmd-alt-shift-u': 'transformador:upperCase',
   'cmd-alt-shift-i': 'transformador:wordInvert'
   'cmd-alt-shift-r': 'transformador:wordReverse'
