@@ -13,7 +13,16 @@
     "word suffle"
   ],
   "activationCommands": {
-    "atom-workspace": "transformer:wordShuffle"
+    "atom-workspace": [
+        "transformador:upperCase",
+        "transformador:wordInvert",
+        "transformador:wordReverse",
+        "transformador:calculate",
+        "transformador:wordWave",
+        "transformador:camelCase",
+        "transformador:underscoreCase",
+        "transformador:wordShuffle"
+      ]
   },
   "repository": "https://github.com/ArnaudDassy/transformador",
   "license": "MIT",
