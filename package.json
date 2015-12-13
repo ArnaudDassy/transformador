@@ -22,7 +22,7 @@
     "atom-workspace": "transformer:underscoreCase",
     "atom-workspace": "transformer:wordShuffle"
   },
-  "repository": "https://github.com/ArnaudDassy/atom-transformador",
+  "repository": "https://github.com/ArnaudDassy/transformador",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
